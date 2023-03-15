@@ -42,9 +42,16 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.Compare_exerciseKt">
+  <component name="RunManager" selected="Kotlin.Compare_exercise2Kt">
     <configuration name="CompareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CompareKt" />
+      <module name="intro-kotlin-victor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Compare_exercise2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Compare_exercise2Kt" />
       <module name="intro-kotlin-victor" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Compare_exercise2Kt" />
         <item itemvalue="Kotlin.Compare_exerciseKt" />
         <item itemvalue="Kotlin.CompareKt" />
       </list>
