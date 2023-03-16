@@ -1,12 +1,28 @@
 fun main(args: Array<String>) {
 
-    val weight = 75.0 // weight in kg
-    val height = 180.0 // height in cm
+    print("Enter your details")
 
-    val heightinMeters = height / 100.0
-    val bmi = weight / (heightinMeters * heightinMeters)
+    println("Enter your weight")
+    var weight:Int = readLine()!!.toInt()
 
-    println("BMI: %.2f kg/m^2".format(bmi))
+    println("Enter your height")
+    var height: Float = readLine()!!.toFloat()
+
+    var bmi = weight / (height * height)
+
+    if (bmi <=18){
+        println("underweight")
+    }
+    else if (bmi <=29){
+        println("normal weight")
+    }
+    else if (bmi <=34){
+        println("overweight")
+    }
+    else{
+        println("Obese")
+    }
+
 
 
 }

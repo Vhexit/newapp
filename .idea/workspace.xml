@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ebf9e481-0821-4acf-889a-a44fa938b5bc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/datatypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/datatypes.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/school.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/school.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/bmi.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/bmi.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +43,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.SchoolKt">
-    <configuration name="CompareKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CompareKt" />
+  <component name="RunManager" selected="Kotlin.Ex_loopKt">
+    <configuration name="BmiKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BmiKt" />
       <module name="intro-kotlin-victor" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -59,8 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Compare_exerciseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Compare_exerciseKt" />
+    <configuration name="Ex_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_loopKt" />
+      <module name="intro-kotlin-victor" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="For_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For_loopKt" />
       <module name="intro-kotlin-victor" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -75,10 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Ex_loopKt" />
+        <item itemvalue="Kotlin.For_loopKt" />
+        <item itemvalue="Kotlin.BmiKt" />
         <item itemvalue="Kotlin.SchoolKt" />
         <item itemvalue="Kotlin.Compare_exercise2Kt" />
-        <item itemvalue="Kotlin.Compare_exerciseKt" />
-        <item itemvalue="Kotlin.CompareKt" />
       </list>
     </recent_temporary>
   </component>
@@ -92,5 +99,16 @@
       <updated>1678782266170</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
