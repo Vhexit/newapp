@@ -15,8 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -42,9 +43,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.ExfunctionKt">
-    <configuration name="Ex2_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2_loopKt" />
+  <component name="RunManager" selected="Kotlin.CarsKt">
+    <configuration name="CarsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.CarsKt" />
       <module name="intro-kotlin-victor" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,15 +58,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExwhenstatementsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExwhenstatementsKt" />
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
       <module name="intro-kotlin-victor" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
+    <configuration name="HouseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.HouseKt" />
       <module name="intro-kotlin-victor" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +81,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.CarsKt" />
+        <item itemvalue="Kotlin.HouseKt" />
         <item itemvalue="Kotlin.ExfunctionKt" />
         <item itemvalue="Kotlin.FunctionsKt" />
         <item itemvalue="Kotlin.IdkKt" />
-        <item itemvalue="Kotlin.ExwhenstatementsKt" />
-        <item itemvalue="Kotlin.Ex2_loopKt" />
       </list>
     </recent_temporary>
   </component>
